@@ -47,3 +47,13 @@
 9.Jika Input diluar, A,E,D,S,L,Q
 
    -Pilih opsi yang tersedia
+   
+   tampilan flow chart:
+   
+   ![](screenshot/ssflow.png)
+   
+   tampilan hasil:
+   
+   ![](screenshot/langkah1.png)
+   
+   ![](screenshot/langkah2.png)
